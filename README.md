@@ -1,5 +1,5 @@
-# Pathfinding visulaizer 
-A Pythin based visualizer of **Dijkstra** and **A\*** algorithms using ASCII graphics in terminal. 
+# Pathfinding visualizer 
+A Python-based visualizer of **Dijkstra** and **A\*** algorithms using ASCII graphics in the terminal. 
 
 ## Demo:
 ![pathfinding-demo](https://github.com/user-attachments/assets/0cb40197-1c37-4a68-9f81-62abf0105d0c)
